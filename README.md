@@ -54,4 +54,4 @@ Additional information about [crontab](https://crontab.guru)
 ## WHY?!
 
 Only because I wanted to. I hate to see my git commit stats have gaps, and so I made this SUPER simple script to create a commit to this repository to bring up my commit streak :P, and to fill in the gaps where I don't commit on one day. Again this is just a silly project and has no purpose besides to 'cure my ocd' for a perfect commit streak :D. I hope if you have the same issue this script will help.
-+ I was bored :/
++I was bored :/
